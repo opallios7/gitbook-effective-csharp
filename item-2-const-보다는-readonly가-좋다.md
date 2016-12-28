@@ -2,10 +2,9 @@
 
 C#은 상수형으로 컴파일타임(compile-time)상수와 런타임(Runtime)상수 두 가지를 가지고 있다.
 
-<ul>
-    <li>런타임 상수 : readonly</li>
-    <li>컴파일타임 상수 : const</li>
-</ul>
+* 런타임 상수 : readonly
+* 컴파일타임 상수 : const
+
 
 >```
 // 컴파일 타임 상수
@@ -28,4 +27,4 @@ readonly 대신 const를 썼을 대의 유일한 장점은 수행성능이다. �
 
 유연성을 포기하기 이전에 수행성능에 미치는 영향을 먼저 고려하여 const를 사용할지 readonly를 사용할 지를 정하는 것이 가장 좋은 프로그래밍 방법일 듯하다.
 
-개인적으로는 readonly를 자주 사용하고 있다. 
+<strong> 개인적으로는 readonly를 자주 사용하고 있다. </strong>
