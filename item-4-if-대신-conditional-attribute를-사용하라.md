@@ -108,4 +108,4 @@ privaite void CheckState()
 ```
 
 ## 결론
-<em><strong>Conditional Attribute는 단지 메소드에 대해서만 지정이 가능하다. 추가적인 제한사항으로는 Conditional Attribute를 지정하는 메소드는 반드시 void 형태의 리턴 타입을 가져야 한다는 점과 메소드 내의 일부 문장에 대해서만은 Conditional Attribute를 사용할 수 없다는 점이다.</strong></em>
+><em><strong>Conditional Attribute는 단지 메소드에 대해서만 지정이 가능하다. 추가적인 제한사항으로는 Conditional Attribute를 지정하는 메소드는 반드시 void 형태의 리턴 타입을 가져야 한다는 점과 메소드 내의 일부 문장에 대해서만은 Conditional Attribute를 사용할 수 없다는 점이다.</strong></em>
