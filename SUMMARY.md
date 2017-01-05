@@ -6,4 +6,5 @@
 * [Item \#3 cast 보다는 is나 as가 좋다.](item-3-cast-보다는-is나-as가-좋다.md)
 * [Item \#4 \#if 대신 Conditional Attribute를 사용하라](item-4-if-대신-conditional-attribute를-사용하라.md)
 * [Item \#5 항상 ToString\(\)을 작성하라](item-5-항상-tostring을-작성하라.md)
+* [Item \#6 value타입과 reference타입을 구분하라](item-6-value타입과-reference타입을-구분하라.md)
 
