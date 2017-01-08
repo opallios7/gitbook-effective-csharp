@@ -9,4 +9,5 @@
 * [Item \#6 value타입과 reference타입을 구분하라](item-6-value타입과-reference타입을-구분하라.md)
 * [Item \#7 immutable atomic value 타입이 더 좋다.](item-7-immutable-atomic-value-타입이-더-좋다.md)
 * [Item \#8 value 타입을 사용할 때 0이라는 값이 의미를 가질 수 있도록 하라](item-8-value-타입을-사용할-때-0이라는-값이-의미를-가질-수-있도록-하라.md)
+* [Item \#9 ReferenceEquals\(\), static Equals\(\), instance Equals\(\), operator==의 상호 연관성을 이해하라](item-9-referenceequals-static-equals-instance-equals-operator의-상호-연관성을-이해하라.md)
 
