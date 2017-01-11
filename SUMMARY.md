@@ -12,4 +12,6 @@
 * [Item \#9 ReferenceEquals\(\), static Equals\(\), instance Equals\(\), operator==의 상호 연관성을 이해하라](item-9-referenceequals-static-equals-instance-equals-operator의-상호-연관성을-이해하라.md)
 * [Item \#10 GetHashCode\(\)의 함정에 유의하라](item-10-gethashcode의-함정에-유의하라.md)
 * [Item \#11 foreach 루프가 더 좋다](item-11-foreach-루프가-더-좋다.md)
+* [Item \#12 할당문보다는 변수 초기화를 사용하는 편이 좋다.](item-12-할당문보다는-변수-초기화를-사용하는-편이-좋다.md)
+* [Item \#13 static 클래스 맴버는 static 생성자를 사용하여 초기화하라](item-13-static-클래스-맴버는-static-생성자를-사용하여-초기화하라.md)
 
