@@ -16,4 +16,5 @@
 * [Item \#13 static 클래스 맴버는 static 생성자를 사용하여 초기화하라](item-13-static-클래스-맴버는-static-생성자를-사용하여-초기화하라.md)
 * [Item \#14 연쇄적인 생성자 호출을 이용하라](item-14-연쇄적인-생성자-호출을-이용하라.md)
 * [Item \#15 자원해제를 위해서 using과 try\/finally를 이용하라](item-15-자원해제를-위해서-using과-tryfinally를-이용하라.md)
+* [Item \#16 Garbage를 최소화하라](item-16-garbage를-최소화하라.md)
 
