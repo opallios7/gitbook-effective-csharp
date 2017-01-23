@@ -1,4 +1,4 @@
-# Item \#17 boxing과 unboxing을 최소화하라
+# Item #17 boxing과 unboxing을 최소화하라
 
 boxing이란 value타입 객체를 타입이 구체적으로 정의되지 않은 reference 타입 객체 내부로 포함하여, reference 타입이 요구되는 경우에도 value 타입을 쓸 수 있도록 해주는 메커니즘을 말한다. unboxing이란 boxing되어 있는 value 타입 객체의 복사본을 획득하는 과정을 말한다. boxing과 unboxing은 value 타입을 System.Object 타입이 필요한 시점에 사용하기 위해서 반드시 필요하다. 하지만 boxing과 unboxing은 항상 수행성능에 좋지 않은 영향을 미친다. boxing과 unboxing 동작은 항상 복사과정을 수반하기 때문에, 때때로 이로 인해 기대하지 않은 오류가 발생하기도 한다. boxing과 unboxing은 피할 수 있다면 가능한 한 피하는 것이 좋다.
 

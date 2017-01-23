@@ -18,5 +18,5 @@
 * [Item \#15 자원해제를 위해서 using과 try\/finally를 이용하라](item-15-자원해제를-위해서-using과-tryfinally를-이용하라.md)
 * [Item \#16 Garbage를 최소화하라](item-16-garbage를-최소화하라.md)
 * [Item \#17 boxing과 unboxing을 최소화하라](item-17-boxing과-unboxing을-최소화하라.md)
-* Item \#18 표준 Dispose 패턴을 구현하라
+* [Item \#18 표준 Dispose 패턴을 구현하라](item-18-표준-dispose-패턴을-구현하라.md)
 
