@@ -21,4 +21,5 @@
 * [Item \#18 표준 Dispose 패턴을 구현하라](item-18-표준-dispose-패턴을-구현하라.md)
 * [Item \#19 상속보다는 interface를 정의하고 구현하는 것이 좋다.](item-19-상속보다는-interface를-정의하고-구현하는-것이-좋다.md)
 * [Item \#20 interface의 구현과 virtual메소드의 overriding을 구분하라](item-20-interface의-구현과-virtual메소드의-overriding을-구분하라.md)
+* [Item \#21 delegate를 이용하여 콜백을 표현하라](item-21-delegate를-이용하여-콜백을-표현하라.md)
 
