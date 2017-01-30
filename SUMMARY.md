@@ -23,4 +23,5 @@
 * [Item \#20 interface의 구현과 virtual메소드의 overriding을 구분하라](item-20-interface의-구현과-virtual메소드의-overriding을-구분하라.md)
 * [Item \#21 delegate를 이용하여 콜백을 표현하라](item-21-delegate를-이용하여-콜백을-표현하라.md)
 * [Item \#22 이벤트를 이용하여 외부로 노출할 인터페이스를 정의하라](item-22.md)
+* [Item \#23 클래스 내부 객체에 대한 reference 반환을 피하라](item-23-reference.md)
 
