@@ -25,4 +25,5 @@
 * [Item \#22 이벤트를 이용하여 외부로 노출할 인터페이스를 정의하라](item-22.md)
 * [Item \#23 클래스 내부 객체에 대한 reference 반환을 피하라](item-23-reference.md)
 * [Item \#24 명령적 프로그래밍보다 선언적 프로그래밍이 더 좋다.](item-24.md)
+* [Item \#25 serializable 타입이 더 좋다](item-25-serializable.md)
 
