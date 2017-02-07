@@ -26,4 +26,5 @@
 * [Item \#23 클래스 내부 객체에 대한 reference 반환을 피하라](item-23-reference.md)
 * [Item \#24 명령적 프로그래밍보다 선언적 프로그래밍이 더 좋다.](item-24.md)
 * [Item \#25 serializable 타입이 더 좋다](item-25-serializable.md)
+* [Item \#26 IComparable과 IComparer를 이용하여 순차관계를 구현하라](item-26-icomparable-icomparer.md)
 
