@@ -29,4 +29,5 @@
 * [Item \#26 IComparable과 IComparer를 이용하여 순차관계를 구현하라](item-26-icomparable-icomparer.md)
 * [Item \#27 ICloneable의 구현을 피하라](item-27-icloneable.md)
 * [Item \#28 형변환 연산자의 구현을 피하라](item-28.md)
+* [Item \#29 기반 클래스의 변경이 영향을 줄 경우에만 new 한정자를 사용하라](item-29-new.md)
 
